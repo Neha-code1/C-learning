@@ -102,7 +102,7 @@ int main(){
     cout<<"Enter position you want to insert the value:\n";
     cin>>val;
     insatpos(val);
-    display(size+3);
+    display(size+3 );
     cout<<"\nAddress of head : "<<head<<"\n";
     return 0;
 }
